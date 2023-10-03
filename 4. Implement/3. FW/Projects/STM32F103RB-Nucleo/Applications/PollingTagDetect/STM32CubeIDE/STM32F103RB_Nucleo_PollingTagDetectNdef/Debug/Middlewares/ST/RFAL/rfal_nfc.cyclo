@@ -1,0 +1,13 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:948:19:rfalNfcPollCollResolution	40
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:1574:19:rfalNfcNfcDepActivate.constprop	3
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:1668:19:rfalNfcDeactivation.isra	7
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:139:12:rfalNfcInitialize	2
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:153:12:rfalNfcDiscover	11
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:213:12:rfalNfcDeactivate	3
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:239:12:rfalNfcSelect	2
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:254:14:rfalNfcGetState	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:260:12:rfalNfcGetDevicesFound	4
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:281:12:rfalNfcGetActiveDevice	5
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:531:12:rfalNfcDataExchangeStart	18
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:666:12:rfalNfcDataExchangeGetStatus	11
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfc.c:306:6:rfalNfcWorker	83

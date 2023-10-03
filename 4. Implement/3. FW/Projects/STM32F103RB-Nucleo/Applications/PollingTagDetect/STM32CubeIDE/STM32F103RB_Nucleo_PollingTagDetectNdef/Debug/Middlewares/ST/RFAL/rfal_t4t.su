@@ -1,0 +1,9 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:102:12:rfalT4TPollerComposeCAPDU	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:171:12:rfalT4TPollerParseRAPDU	0	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:197:12:rfalT4TPollerComposeSelectAppl	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:224:12:rfalT4TPollerComposeSelectFile	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:251:12:rfalT4TPollerComposeSelectFileV1Mapping	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:278:12:rfalT4TPollerComposeReadData	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:299:12:rfalT4TPollerComposeReadDataODO	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:330:12:rfalT4TPollerComposeWriteData	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_t4t.c:356:12:rfalT4TPollerComposeWriteDataODO	32	static

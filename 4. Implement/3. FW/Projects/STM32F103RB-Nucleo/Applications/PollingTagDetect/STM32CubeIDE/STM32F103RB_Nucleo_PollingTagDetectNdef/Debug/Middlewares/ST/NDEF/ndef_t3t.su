@@ -1,0 +1,16 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:131:19:ndefT3TPollerReadBlocks	56	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:302:19:ndefT3TPollerReadAttributeInformationBlock	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:486:19:ndefT3TPollerWriteBlocks	64	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:636:19:ndefT3TPollerWriteAttributeInformationBlock	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:187:12:ndefT3TPollerReadBytes	64	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:348:12:ndefT3TPollerContextInitialization	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:363:12:ndefT3TPollerNdefDetect	48	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:447:12:ndefT3TPollerReadRawMessage	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:518:12:ndefT3TPollerWriteBytes	72	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:760:12:ndefT3TPollerTagFormat	48	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:806:12:ndefT3TPollerCheckPresence	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:821:12:ndefT3TPollerCheckAvailableSpace	0	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:840:12:ndefT3TPollerBeginWriteMessage	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:868:12:ndefT3TPollerEndWriteMessage	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:702:12:ndefT3TPollerWriteRawMessage	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t3t.c:896:12:ndefT3TPollerWriteRawMessageLen	0	static

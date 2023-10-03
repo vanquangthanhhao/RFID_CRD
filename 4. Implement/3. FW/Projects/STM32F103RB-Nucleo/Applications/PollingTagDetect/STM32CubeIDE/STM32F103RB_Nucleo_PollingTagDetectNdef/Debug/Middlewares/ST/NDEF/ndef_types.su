@@ -1,0 +1,5 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_types.c:174:12:ndefRecordTypeStringToTypeId	56	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_types.c:252:12:ndefTypeToRecord	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_types.c:278:12:ndefRecordSetNdefType	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_types.c:302:17:ndefRecordGetNdefType	0	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_types.c:214:12:ndefRecordToType	24	static

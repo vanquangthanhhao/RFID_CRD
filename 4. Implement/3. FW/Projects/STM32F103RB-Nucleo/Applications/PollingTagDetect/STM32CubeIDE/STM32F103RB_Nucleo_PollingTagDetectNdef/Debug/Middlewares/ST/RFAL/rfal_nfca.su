@@ -1,0 +1,8 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:178:12:rfalNfcaPollerInitialize	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:194:12:rfalNfcaPollerCheckPresence	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:228:12:rfalNfcaPollerSingleCollisionResolution	88	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:534:12:rfalNfcaPollerSelect	64	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:594:12:rfalNfcaPollerSleep	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:213:12:rfalNfcaPollerTechnologyDetection	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:414:12:rfalNfcaPollerFullCollisionResolution	48	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/rfal/Src/rfal_nfca.c:614:6:rfalNfcaListenerIsSleepReq	0	static

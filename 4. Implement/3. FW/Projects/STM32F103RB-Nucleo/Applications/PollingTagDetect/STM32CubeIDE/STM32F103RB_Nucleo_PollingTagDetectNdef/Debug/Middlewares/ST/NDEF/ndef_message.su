@@ -1,0 +1,6 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_message.c:101:12:ndefMessageInit	0	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_message.c:119:12:ndefMessageGetInfo	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_message.c:148:10:ndefMessageGetRecordCount	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_message.c:162:12:ndefMessageAppend	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_message.c:209:12:ndefMessageDecode	48	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_message.c:255:12:ndefMessageEncode	40	static

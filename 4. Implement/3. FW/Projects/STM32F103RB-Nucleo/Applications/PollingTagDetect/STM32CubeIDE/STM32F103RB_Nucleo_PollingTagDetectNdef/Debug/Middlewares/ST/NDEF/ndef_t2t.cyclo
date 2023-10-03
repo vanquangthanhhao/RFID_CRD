@@ -1,0 +1,14 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:143:19:ndefT2TPollerReadBlock	7
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:452:19:ndefT2TPollerWriteBlock	6
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:179:12:ndefT2TPollerReadBytes	17
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:253:12:ndefT2TPollerContextInitialization	4
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:270:12:ndefT2TPollerNdefDetect	22
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:416:12:ndefT2TPollerReadRawMessage	7
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:482:12:ndefT2TPollerWriteBytes	11
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:544:12:ndefT2TPollerWriteRawMessageLen	9
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:656:12:ndefT2TPollerTagFormat	7
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:725:12:ndefT2TPollerCheckPresence	4
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:747:12:ndefT2TPollerCheckAvailableSpace	4
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:771:12:ndefT2TPollerBeginWriteMessage	5
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:806:12:ndefT2TPollerEndWriteMessage	5
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/poller/ndef_t2t.c:594:12:ndefT2TPollerWriteRawMessage	11

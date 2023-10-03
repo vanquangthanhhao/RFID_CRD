@@ -1,0 +1,15 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:161:6:HAL_NVIC_SetPriorityGrouping	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:183:6:HAL_NVIC_SetPriority	3
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:205:6:HAL_NVIC_EnableIRQ	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:221:6:HAL_NVIC_DisableIRQ	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:234:6:HAL_NVIC_SystemReset	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:247:10:HAL_SYSTICK_Config	2
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:362:10:HAL_NVIC_GetPriorityGrouping	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:389:6:HAL_NVIC_GetPriority	3
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:404:6:HAL_NVIC_SetPendingIRQ	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:422:10:HAL_NVIC_GetPendingIRQ	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:438:6:HAL_NVIC_ClearPendingIRQ	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:455:10:HAL_NVIC_GetActive	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:472:6:HAL_SYSTICK_CLKSourceConfig	2
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:499:13:HAL_SYSTICK_Callback	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:490:6:HAL_SYSTICK_IRQHandler	1

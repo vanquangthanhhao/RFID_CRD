@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Release Notes for X-CUBE-NFC3 Package</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+  <link rel="stylesheet" href="_htmresc/mini-st.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div class="row">
+<div class="col-sm-12 col-lg-4">
+<div class="card fluid">
+<div class="sectione dark">
+<center>
+<h1 id="release-notes-for-x-cube-nfc3"><small>Release Notes for</small> <strong>X-CUBE-NFC3</strong></h1>
+<p>Copyright © 2019 STMicroelectronics<br />
+</p>
+<a href="https://www.st.com" class="logo"><img src="_htmresc/st_logo.png" alt="ST logo" /></a>
+</center>
+</div>
+</div>
+<h1 id="license">License</h1>
+<p>This software package is licensed by ST under SLA0077, the “License”; You may not use this component except in compliance with the License. You may obtain a copy of the License at:</p>
+<p><a href="https://www.st.com/content/ccc/resource/legal/legal_agreement/license_agreement/group0/11/90/98/2e/8c/cc/49/40/DM00228824/files/DM00228824.pdf/jcr:content/translations/en.DM00228824.pdf">SLA0051: SOFTWARE LICENSE AGREEMENT</a></p>
+<h1 id="purpose">Purpose</h1>
+<p>This software is providing NFC capabilities thanks to ST25R95 or CR95HF near field communication transceivers running on STM32. It is built on top of STM32Cube software technology that ease portability across different STM32 microcontrollers.</p>
+<p><strong>X-CUBE-NFC3 software features</strong>:</p>
+<ul>
+<li><p>Complete middleware to build applications using the ST25R95 or CR95HF near field communication transceivers</p></li>
+<li><p>Easy portability across different MCU families thanks to STM32Cube</p></li>
+<li><p>Free user-friendly license terms</p></li>
+<li><p>The technologies currently supported by RFAL are:</p>
+<ul>
+<li><p>NFC-A  ISO14443A (T1T, T2T, T4TA)</p></li>
+<li><p>NFC-B  ISO14443B (T4TB)</p></li>
+<li><p>NFC-F  FeliCa (T3T)</p></li>
+<li><p>NFC-V  ISO15693 (T5T)</p></li>
+<li><p>ST25TB (ISO14443-2 Type B with proprietary protocol)</p></li>
+</ul></li>
+<li><p>Examples implementation available on board X-NUCLEO-NFC03A1 plugged on top of one NUCLEO board</p></li>
+</ul>
+<p>[<img src="_htmresc/X-CUBE-NFC3_components.png" alt="The X-CUBE-NFC3 package contents" />]</p>
+<p>Here is the list of references to user documents:</p>
+<ul>
+<li><a href="https://www.st.com/en/evaluation-tools/stm32-nucleo-expansion-boards.html">STM32 Nucleo expansion boards</a></li>
+<li><a href="https://www.st.com/content/st_com/en/stm32cube-ecosystem.html">STM32Cube</a></li>
+<li><a href="https://www.st.com/content/ccc/resource/technical/document/user_manual/group0/da/8c/85/ce/ed/4d/43/98/DM00282095/files/DM00282095.pdf/jcr:content/translations/en.DM00282095.pdf">UM2045 Getting started with the X-CUBE-NFC3 near field communication transceiver software expansion for STM32Cube</a></li>
+</ul>
+</div>
+<section id="update-history" class="col-sm-12 col-lg-8">
+<h1>Update History</h1>
+<div class="collapse">
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>2.1.0 / Dec 13th 2019</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>Support of NDEF is added in the Middleware</li>
+<li>An Example is added to Read/Write a NDEF tag</li>
+<li>STM32F4xx drivers aligned to STM32CubeF4 V1.24.1</li>
+<li>STM32L4xx drivers aligned to STM32CubeL4 V1.14.0</li>
+</ul>
+<h2 id="contents">Contents</h2>
+<table>
+<caption>Middleware</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Version</th>
+<th style="text-align: center;">Release note</th>
+<th style="text-align: center;">CHM</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>RFAL</strong></td>
+<td style="text-align: left;">V2.1.0</td>
+<td style="text-align: center;"><a href="Middlewares\ST\rfal\doc\Release_Notes.html">release note</a></td>
+<td style="text-align: center;"><a href="Middlewares\ST\rfal\doc\rfal.chm">rfal.chm</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>NDEF</strong></td>
+<td style="text-align: left;">V1.0.4</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="Middlewares\ST\ndef\doc\ndef.chm">ndef.chm</a></td>
+</tr>
+</tbody>
+</table>
+	
+<caption> Components</caption>
+<ul>
+<li class="MsoNormal" style="margin: 4.5pt 0in; font-size: 12pt; font-family: 'Times New Roman'; color: black;"><span style="font-size: 10pt; font-family: Verdana;">ST25R95 </span><span style="font-size: 10pt; font-family: Verdana;"></span><br>
+<span style="font-size: 10pt; font-family: Verdana;"></span></li>
+</ul>
+
+<p><br />
+</p>
+<p>Note: in the table above, components <strong>highlighted</strong> have changed since previous release.</p>
+<h2 id="known-limitations">Known Limitations</h2>
+<p>: Not Any</p>
+<p><br />
+</p>
+<h2 id="development-toolchains-and-compilers">Development Toolchains and Compilers</h2>
+<ul>
+<li>IAR System Workbench v8.40.1</li>
+<li>ARM Keil v5.26</li>
+<li>STM32CubeIDE v1.1.0</li>
+</ul>
+<h2 id="supported-devices-and-boards">Supported Devices and Boards</h2>
+<ul>
+<li>NUCLEO-F401RE MB1136 rev.C</li>
+<li>NUCLEO-L476RG MB1136 rev.C</li>
+<li>NUCLEO-F103RB MB1136 rev.C</li>
+<li>X-NUCLEO-NFC03A1</li>
+</ul>
+<h2 id="backward-compatibility">Backward Compatibility</h2>
+<p>N/A</p>
+<h2 id="dependencies">Dependencies</h2>
+<p>This software release is compatible with:</p>
+<ul>
+<li>STM32CubeHAL F4 V1.24.1</li>
+<li>STM32CubeHAL L4 V1.14.0</li>
+<li>STM32CubeHAL F1 V1.6.0</li>
+</ul>
+</div>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>2.0.0 / Feb 20th 2019</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>Support of STM32L476RG-Nucleo added </li>
+<li>RFAL library support for ST25R95 </li>
+</ul>
+</div>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>1.4.0 / May 30th 2018</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>STM32F4xx drivers aligned to STM32CubeF4 V1.21.0 </li>
+<li>RFAL library updates </li>
+</ul>
+</div>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>1.3.0 / Oct 12th 2017</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>STM32F1xx drivers aligned to STM32CubeF1 V1.6.0 </li>
+</ul>
+</div>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>1.2.0 / June 9th 2017</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>STM32F4xx drivers aligned to STM32CubeF4 V1.16.0 </li>
+</ul>
+</div>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>1.1.0 / Nov 9th 2017</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>STM32F4xx drivers aligned to STM32CubeF4 V1.13.1</li>
+<li>STM32F1xx drivers aligned to STM32CubeF1 V1.4.0</li>
+<li>Bug fix in lib_iso15693pcd and read text api added to lib_NDEF_Text</li>
+</ul>
+</div>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true"> <label for="collapse-section4" aria-hidden="true"><strong>1.0.0 / May 17th 2016</strong></label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<ul>
+<li>First official release of firmware for X-NUCLEO-NFC03A1 Expansion Board </li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+<footer class="sticky">
+<p>For complete documentation on <strong>X-CUBE-NFC3</strong> , visit: [<a href="https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-nfc3.html">X-CUBE-NFC3</a>]</p>
+This release note uses up to date web standards and, for this reason, should not be opened with Internet Explorer but preferably with popular browsers such as Google Chrome, Mozilla Firefox, Opera or Microsoft Edge.
+</footer>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:210:23:ndefWifiToPayloadItem	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:187:17:ndefWifiPayloadGetLength	0	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:340:12:ndefWifi	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:364:12:ndefGetWifi	0	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:471:12:ndefRecordToWifi	48	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:497:12:ndefWifiToRecord	16	static
