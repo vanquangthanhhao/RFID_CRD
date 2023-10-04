@@ -1,0 +1,6 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/logger.c:75:6:logUsartInit	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/logger.c:87:9:logUsartTx	2
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/logger.c:102:5:logUsart	1
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/logger.c:126:7:hex2Str	4
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/logger.c:169:6:logITMTx	5
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/logger.c:182:5:logITM	1

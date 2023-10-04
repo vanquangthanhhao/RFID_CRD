@@ -1,0 +1,9 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:1081:13:ledsOn	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:1091:13:ledsOff	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:1067:13:LedNotificationWriteDone	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:905:13:ndefT4TCCDump.constprop	40	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:669:13:demoNdef	664	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:243:6:demoIni	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:653:12:demoTransceiveBlocking	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:557:6:demoP2P	360	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_demo.c:308:6:demoCycle	80	static

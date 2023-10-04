@@ -119,8 +119,8 @@ int main(void)
     platformLog("Initialization failed..\r\n");
     while(1) 
     {
-      HAL_GPIO_TogglePin(PLATFORM_LED_A_PORT, PLATFORM_LED_A_PIN);
-      HAL_Delay(100);
+    	HAL_GPIO_WritePin(GPIOB,SIG_LED_Pin,GPIO_PIN_SET);
+    	HAL_Delay(100);
     }
   } 
   else
@@ -208,7 +208,7 @@ static void SystemClock_Config(void)
   /* Enable SYSCFG Clock */
   __HAL_RCC_SYSCFG_CLK_ENABLE();
  
-#elif defined STM32F103xB
+#elif defined STM32F103xx
   
   /* Configure PLL ------------------------------------------------------*/
   /* PLL configuration: PLLCLK = (HSI / 2) * PLLMUL = (8 / 2) * 16 = 64 MHz */
@@ -331,7 +331,7 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOD_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOB, LED2_Pin|LED3_Pin|LED4_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOB, LED2_Pin|SIG_LED_Pin|LED4_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(SSI_0_GPIO_Port, SSI_0_Pin, GPIO_PIN_SET);
@@ -369,7 +369,7 @@ static void MX_GPIO_Init(void)
   /*Configure GPIO pins : PB0 PB1 PB2 PB11 
                            PB12 PB13 PB14 PB15 
                            PB7 PB8 PB9 */
-  GPIO_InitStruct.Pin = GPIO_PIN_0|GPIO_PIN_1|GPIO_PIN_2|GPIO_PIN_11 
+  GPIO_InitStruct.Pin = GPIO_PIN_0|GPIO_PIN_1|GPIO_PIN_2|GPIO_PIN_11
                           |GPIO_PIN_12|GPIO_PIN_13|GPIO_PIN_14|GPIO_PIN_15 
                           |GPIO_PIN_7|GPIO_PIN_8|GPIO_PIN_9;
   GPIO_InitStruct.Mode = GPIO_MODE_ANALOG;
@@ -377,7 +377,7 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
   /*Configure GPIO pins : LED2_Pin LED3_Pin LED4_Pin nSPI_SS_Pin */
-  GPIO_InitStruct.Pin = LED2_Pin|LED3_Pin|LED4_Pin|nSPI_SS_Pin;
+  GPIO_InitStruct.Pin = LED2_Pin|LED3_Pin|SIG_LED_Pin|LED4_Pin|nSPI_SS_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;

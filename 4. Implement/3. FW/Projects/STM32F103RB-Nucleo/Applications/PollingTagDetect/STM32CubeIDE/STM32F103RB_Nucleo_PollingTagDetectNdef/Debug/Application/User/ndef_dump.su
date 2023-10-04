@@ -1,0 +1,15 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:226:12:ndefEmptyTypeDump	8	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:245:12:ndefRtdDeviceInfoDump	72	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:559:12:ndefTypeDump	4	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:591:12:ndefRecordDumpType	280	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:648:12:ndefBufferDump	48	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:532:12:ndefMediaWifiDump	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:697:12:ndefBufferPrint	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:332:12:ndefRtdUriDump	24	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:357:12:ndefRtdAarDump	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:451:12:ndefMediaVCardDump	72	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:718:12:ndefBuffer8Print	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:111:12:ndefRecordDump	56	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:193:12:ndefMessageDump	16	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:303:12:ndefRtdTextDump	32	static
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Projects/STM32F103RB-Nucleo/Applications/PollingTagDetect/Src/ndef_dump.c:380:12:ndefMediaTypeDump	24	static

@@ -1,0 +1,8 @@
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:112:6:st25r95CheckChipID	3
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:128:12:st25r95ProtocolSelect	5
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:163:12:st25r95SetBitRate	26
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:296:12:st25r95SetFWT	22
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:431:12:st25r95SetSlotCounter	2
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:443:12:st25r95WriteReg	7
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:489:9:st25r95CalibrateTagDetector	11
+C:/WORK/EASYGROUP/Easy Electronic/Project/RFID_CRD/4. Implement/3. FW/Drivers/BSP/Components/ST25R95/st25r95_com.c:538:12:st25r95ReadReg	5
